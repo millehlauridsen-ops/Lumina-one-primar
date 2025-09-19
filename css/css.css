@@ -620,7 +620,7 @@ input:checked + .slider:before {
 
 /*Sektion 4 Luminate yourself */
 
-#LumineYourselfSektion{
+#LuminateYourselfSektion{
   background-color: var(--farve_moonlightwhite);
 }
 .SHARE{
@@ -658,6 +658,7 @@ margin-left: 50px;
     width: calc(50% / 7);  /* størrlse på billeder defineret */
     margin: 10px;          /* afstand mellem billeder */
     object-fit: contain;   /* Billeder forbliver samme størrelsesforhold uanset evt ændring i bredde eller højde */
+   background-color:var(--farve_moonlightwhite) ;
   }
 }
 
